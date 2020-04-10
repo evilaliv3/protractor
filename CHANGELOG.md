@@ -1,3 +1,6 @@
+# 6.0.1
+- Update webdriver to 4.0.0-alpha7
+
 # 6.0.0
 
 Selenium 4 removes the control flow and most of these changes are based on those changes. To see the full list of changes, please refer to selenium-webdriver's [CHANGELOG](https://github.com/SeleniumHQ/selenium/blob/master/javascript/node/selenium-webdriver/CHANGES.md)
